@@ -6,7 +6,7 @@ public class Multadd{
 	public static void main(String[] args){
 		Multadd(1.0,2.0,3.0);
 		Multadd(Math.cos(Math.PI/4),0.5,Math.sin(Math.PI/4));
-		Multadd(1.0,Math.log(10.0),Math.log(20.0));
+		Multadd(1.0,Math.log(10.0)/Math.log(10.0),Math.log(20.0)/Math.log(10.0));
 		expSum(4.0);
 	}
 	
